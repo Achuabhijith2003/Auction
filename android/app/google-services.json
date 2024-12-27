@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780525835293",
+    "project_id": "auction-42108",
+    "storage_bucket": "auction-42108.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780525835293:android:bf235c5461f5f62abd62f4",
+        "android_client_info": {
+          "package_name": "com.jr.Auctions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQg7bzkHdoTT9aB6ZJVrMi9IJOJJ2_6Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
